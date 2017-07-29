@@ -3,6 +3,6 @@
 
     <string name="app_name">SimpleWebView</string>
     <string name="hello_world">Hello world!</string>
-    <string name="action_download">Download</string>
+    <string name="action_download">Downloads</string>
 
 </resources>
